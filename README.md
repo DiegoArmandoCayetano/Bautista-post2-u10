@@ -39,3 +39,21 @@ Se eliminó el retorno de `null` en el método de búsqueda y se reemplazó por 
 
 ```java
 .orElseThrow(() -> new NoSuchElementException("Producto no encontrado"));
+
+## 📸 Evidencias del proyecto
+
+### 🔹 Quality Gate configurado
+![Quality Gate](docs/Estándar%20Universidad.PNG)
+
+### 🔹 Código corregido
+![Código corregido](docs/codigo_corregido.PNG)
+
+### 🔹 Corrección de Smells
+![Smells corregidos](docs/Códigocorregido.PNG)
+
+### 🔹 Dashboard SonarQube
+![Dashboard](docs/quality_gate_estandar_universidad.PNG)
+
+
+Autor
+Diego Armando
