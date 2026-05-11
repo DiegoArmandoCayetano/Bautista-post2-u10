@@ -43,13 +43,13 @@ Se eliminó el retorno de `null` en el método de búsqueda y se reemplazó por 
 ## 📸 Evidencias del proyecto
 
 ### 🔹 Quality Gate configurado
-![Quality Gate](docs/Est%C3%A1ndarUniversidad.PNG)
+![Quality Gate](docs/estandar_universidad.PNG)
 
 ### 🔹 Código corregido
-![Código corregido](docs/C%C3%B3digocorregido.PNG)
+![Código corregido](docs/codigo_corregido.PNG)
 
 ### 🔹 Código refactorizado
-![Código corregido](docs/codigo_corregido.PNG)
+![Refactor](docs/codigo_corregido1.PNG)
 
 ### 🔹 Dashboard SonarQube
 ![Dashboard](docs/quality_gate_estandar_universidad.PNG)
