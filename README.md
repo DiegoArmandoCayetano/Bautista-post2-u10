@@ -42,17 +42,48 @@ Se eliminó el retorno de `null` en el método de búsqueda y se reemplazó por 
 
 ## 📸 Evidencias del proyecto
 
-### 🔹 Quality Gate configurado
-![Quality Gate](docs/estandar_universidad.PNG)
+### POST Crear tarea (201 Created)
+![POST Tarea](./docs/post_tarea.PNG)
 
-### 🔹 Código corregido
-![Código corregido](docs/codigo_corregido.PNG)
+---
 
-### 🔹 Código refactorizado
-![Refactor](docs/codigo_corregido1.PNG)
+### GET Obtener tarea (200 OK)
+![GET Tarea](./docs/get_tarea.PNG)
 
-### 🔹 Dashboard SonarQube
-![Dashboard](docs/quality_gate_estandar_universidad.PNG)
+---
+
+### PATCH Completar tarea (200 OK)
+![PATCH Tarea](./docs/patch.PNG)
+
+---
+
+### GET Verificar tarea completada (200 OK)
+![Verificar completada](./docs/GET_verificar_completada.PNG)
+
+---
+
+### GET Tarea inexistente (404 Not Found)
+![404 Tarea](./docs/get_Tarea_inexistente.PNG)
+
+---
+
+### Ejecución Postman Runner (0 failures)
+![Runner Postman](./docs/run_collections.PNG)
+
+---
+
+### Pruebas Postman (validaciones)
+![Tests Postman](./docs/test_postman.PNG)
+
+---
+
+### Evidencia Selenium (tests en verde)
+![Selenium Tests](./docs/test.PNG)
+
+---
+
+### GitHub Actions (Newman passing)
+![GitHub Actions](./docs/evidencia3_github_actions_newman_green.PNG)
 
 
 Autor
